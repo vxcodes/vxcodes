@@ -5,5 +5,6 @@
 - 💬 Ask me about my journey to SWE
 - 📫 How to reach me: https://www.linkedin.com/in/vxdeveloper/
 - 😄 Pronouns: she/her/hers
+- 🦾 Skills: Python | JavaScript | HTML5 | CSS3 | jQuery | AJAX |  Node.js | Express | Mongoose | MongoDB
 - ⚡ Fun fact: I'm also a 👩‍🔬 AND I love to 👩‍🎨
 
