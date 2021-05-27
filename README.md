@@ -5,5 +5,5 @@
 - 💬 Ask me about my journey to SWE
 - 📫 How to reach me: https://www.linkedin.com/in/vxdeveloper/
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I studied molecular biology for undergrad!
+- ⚡ Fun fact: I'm also a 👩‍🔬
 
