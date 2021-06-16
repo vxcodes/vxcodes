@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my first REACT App!
-- 🌱 I’m currently learning REACT
+- 🔭 I’m currently adding features to my first REACT App!
+- 🌱 I’m currently learning PSQL
 - 💬 Ask me about my journey to SWE
 - 📫 How to reach me: https://www.linkedin.com/in/vxdeveloper/
 - 😄 Pronouns: she/her/hers
