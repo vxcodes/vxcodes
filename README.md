@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Viraj 👋
 
 - 🔭 I’m currently adding features to my first REACT App!
 - 🌱 I’m currently learning PSQL & REACT JS
